@@ -22,7 +22,7 @@
 <h3>▶ 添加积分商城栏目及其子栏目</h3>
 <p><img src="http://www.bluestep.cc/wp-content/uploads/2016/06/lanmu.png" alt="添加积分商城栏目及其子栏目"></p>
 <h3>▶ 完善用户信息</h3>
-<p>》进入后台-用户-会员模型管理添加qq(QQ号码), mobile(手机号), addresss(地址), code(邮编), truename(真实姓名)，这些属性为用户下单使用</p>
+<p>》进入后台-用户-会员模型管理添加qq(QQ号码), mobile(手机号), address(地址), code(邮编), truename(真实姓名)，除了mobile,剩下都是主表字段, 这些属性为用户下单使用，截图略</p>
 <h3>▶ 用户个人中心头部加”购物车”链接</h3>
 <p>》在自己的模板文件或default模板文件member文件夹里修改header.html,加入如下代码:</p>
 <pre>&lt;a href="{APP_PATH}index.php?m=pcvnineshop&amp;c=cart&amp;a=cart"&gt;{L('购物车')}&lt;/a&gt;</pre>
