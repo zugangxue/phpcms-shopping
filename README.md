@@ -33,7 +33,7 @@
 <p>》若要实现前台产品URL静态化，如果不会，可以联系站长</p>
 <h2>★ 获取源码</h2>
 <p><a href="http://www.1gear.cn/list-233-1.html" target="_blank" rel="nofollow"><span class="content-btn content-btn-green">商城预览</span></a> <a class="ymrb" href="https://pan.baidu.com/s/1cG9D7dXGG1lGX3j36tHm3w" target="_blank" rel="nofollow"><span class="content-btn content-btn-red">网盘下载</span></a></p>
-<p id="handsome"><img src="http://www.bluestep.cc/wp-content/uploads/images/handsome.png" alt=""><strong>联系在线客服 <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=568508200&amp;site=qq&amp;menu=yes" target="_blank"><i class="fa fa-qq"></i>QQ</a> 获取密码, 付款方式如下,使用支付宝/微信扫码支付, 手机访问长按二维码支付</strong></p>
+<p id="handsome"><strong>联系在线客服 <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=568508200&amp;site=qq&amp;menu=yes" target="_blank"><i class="fa fa-qq"></i>QQ</a> 获取密码, 付款方式如下,使用支付宝/微信扫码支付, 手机访问长按二维码支付</strong></p>
 <p><span style="color: #7ab55c;">友情价: 2000元（含一个月技术支持费用）</span><br>
 <span style="color: #7ab55c;">半年服务费: 300元（可不要）</span></p>
 <p><a href="http://www.bluestep.cc/wp-content/uploads/2016/07/alipay.jpg" rel="nofollow"><img class="alignnone size-full wp-image-1743" src="http://www.bluestep.cc/wp-content/uploads/2016/07/alipay.jpg" alt="阿里支付" width="330" height="348"></a> <a href="http://www.bluestep.cc/wp-content/uploads/2016/07/weixinpay.jpg" rel="nofollow"><img class="alignnone size-full wp-image-1744" src="http://www.bluestep.cc/wp-content/uploads/2016/07/weixinpay.jpg" alt="微信支付" width="330" height="348"></a></p>
